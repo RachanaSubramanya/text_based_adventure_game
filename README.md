@@ -63,8 +63,8 @@ Run the python script present in the `/script/` (text_based_adventure_game)
 
 *Rachana Subramanya*
 email: rachanasubramanya50@gmail.com
-[LinkedIn](https://www.linkedin.com/in/rachana-subramanya-4ab0b3303/)
-[Github](https://github.com/RachanaSubramanya)
+LinkedIn: https://www.linkedin.com/in/rachana-subramanya-4ab0b3303/
+Github: https://github.com/RachanaSubramanya
 
 ---
 
