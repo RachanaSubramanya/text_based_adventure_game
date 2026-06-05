@@ -30,6 +30,7 @@ To build an adventure themed video game that resembles early generations of text
 <h2><a class="anchor" id="tools-technologies"></a>Tools and Technologies</h2>
 
 - Python
+- Github
 
 ---
 
