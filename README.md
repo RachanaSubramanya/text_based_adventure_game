@@ -56,7 +56,7 @@ The key topics covered under this project are:
 ---
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to run this project</h2>
-Instructions to run the python script present in the `/script/` (text_based_adventure_game)
+Instructions to run the python script present in the `script` (text_based_adventure_game)
 
 ### Prerequisites
 Make sure you have Python installed. You can check your version by running this command in your terminal:
