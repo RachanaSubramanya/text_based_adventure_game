@@ -36,11 +36,12 @@ To build an adventure themed video game that resembles early generations of text
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```text
-│   README.md
-│
-└───scripts
-        adventure_game.py
+text_based_adventure_game/
+├── scripts/
+│   └── adventure_game.py
+└── README.md
 ```
+
 
 ---
 
@@ -55,7 +56,22 @@ The key topics covered under this project are:
 ---
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to run this project</h2>
-Run the python script present in the `/script/` (text_based_adventure_game)
+Instructions to run the python script present in the `/script/` (text_based_adventure_game)
+
+### Prerequisites
+Make sure you have Python installed. You can check your version by running this command in your terminal:
+```bash
+python --version
+```
+*(This game requires Python 3.x or higher).*
+
+### Execution Steps
+1. Open your terminal or PowerShell window.
+2. Navigate into your project folder.
+3. Run the Python script directly by pointing to the `scripts` folder:
+   ```bash
+   python scripts/adventure_game.py
+   ```
 
 ---
 
